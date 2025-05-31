@@ -14,6 +14,13 @@ para sacar adelante proyectos. ¡Siempre estoy con la curiosidad a tope, viendo 
 - 💬 Pregúntame lo que sea, estaré feliz de ayudarte si puedo o simplemente podemos charlar.
 - 🕹 En mi tiempo libre me gusta jugar fútbol y ver películas.
 - 📫 Puedes contactarme en: davidvargas.d45@gmail.com
+
+<!---
+</br>
+Por si gustas apoyarme!
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/C0C11FRGHH)
+-->
   
 </br>
 
