@@ -67,9 +67,11 @@ En Global66 trabaje en una gran variedad de proyectos y productos desde el Front
 - Cuentas bancarias USD Y EUR
 - Implementación de movimientos bancarios
 
-![https://apps.apple.com/ec/app/global66-paga-env%C3%ADa-y-m%C3%A1s/id1494957339](https://img.shields.io/badge/Global66-000.svg?style=for-the-badge&logo=android&logoColor=white)&nbsp;
-![https://play.google.com/store/apps/details?id=com.global66.cards&pcampaignid=web_share](https://img.shields.io/badge/Global66-000.svg?style=for-the-badge&logo=apple&logoColor=white)&nbsp;
-![https://transferencias.global66.com/signin?redirect=/home](https://img.shields.io/badge/Global66-000.svg?style=for-the-badge&logo=internet-archive&logoColor=white)
+[Global66 Appstore](https://apps.apple.com/ec/app/global66-paga-env%C3%ADa-y-m%C3%A1s/id1494957339)&nbsp;
+
+[Global66 Playstore](https://play.google.com/store/apps/details?id=com.global66.cards&pcampaignid=web_share)&nbsp;
+
+[Global66 Web](https://transferencias.global66.com/signin?redirect=/home)&nbsp;
 
 
 FractalUp trabaje como líder técnico en donde apoye creando la arquitectura inicial de los productos Classroom y Exam.
@@ -78,7 +80,7 @@ FractalUp trabaje como líder técnico en donde apoye creando la arquitectura in
 - Flujo de clases grabadas
 - Flujo de exámenes
 
-![https://info.fractalup.com/product/content](https://img.shields.io/badge/FractalUp-000.svg?style=for-the-badge&logo=internet-archive&logoColor=white)
+[FractalUp Classroom](https://info.fractalup.com/product/content)&nbsp;
 
 </br>
 
