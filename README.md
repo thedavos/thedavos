@@ -55,33 +55,30 @@ Por si gustas apoyarme!
 
 </br>
 
-### <h2>💼 Experiencia:</h2> 
+### 🚀 Experiencia Profesional
 
-En Global66 trabaje en una gran variedad de proyectos y productos desde el Frontend tanto en web con Vuejs y en app mobile con Nativescript.
+**Líder Técnico @ FractalUp**
+> _"Mi primera experiencia de liderazgo, donde descubrí que liderar es guiar y habilitar al equipo para tomar las mejores decisiones técnicas."_
 
-- Billetera multimoneda
-- Cotizador para todos los productos
-- Flujo de Exchange
-- Flujo de Envíos (Nacionales y internacionales)
-- Acoplamiento a sistema bancario (CCA y ACH)
-- Cuentas bancarias USD Y EUR
-- Implementación de movimientos bancarios
+- **Diseñé desde cero la arquitectura frontend** para los productos `Classroom` y `Exam`, utilizando Vue 3 (Composition API) y Pinia para construir una base de código escalable y moderna.
+- Definí patrones de desarrollo y buenas prácticas para el equipo, enfocándome en la calidad y mantenibilidad del código a largo plazo.
+- Fomenté un ambiente de colaboración donde la comunicación técnica era clave para desbloquear al equipo y entregar valor rápidamente.
 
-[Global66 Appstore](https://apps.apple.com/ec/app/global66-paga-env%C3%ADa-y-m%C3%A1s/id1494957339)&nbsp;
+**Frontend Developer @ Global66** (4 años)
+> _"Mi gran escuela en el complejo mundo fintech. Aquí aprendí a navegar la complejidad técnica y regulatoria de un producto que opera en 8 países."_
 
-[Global66 Playstore](https://play.google.com/store/apps/details?id=com.global66.cards&pcampaignid=web_share)&nbsp;
+- Lideré la implementación de soluciones frontend para **sistemas bancarios de Colombia, Chile y Perú**, adaptando la interfaz y la lógica a las regulaciones y tecnologías de cada país.
+- Desarrollé y mantuve componentes críticos con **Vue.js** y **NativeScript** para la billetera multimoneda, flujos de envío y el motor de cotización.
+- Colaboré estrechamente con equipos de backend y producto para asegurar la integración con sistemas complejos como CCA y ACH, traduciendo requerimientos de negocio en funcionalidades robustas.
 
-[Global66 Web](https://transferencias.global66.com/signin?redirect=/home)&nbsp;
+---
 
+### 📫 Hablemos
 
-FractalUp trabaje como líder técnico en donde apoye creando la arquitectura inicial de los productos Classroom y Exam.
+Estoy abierto a nuevas oportunidades donde pueda construir productos que importen. Si buscas a alguien que combine calidad técnica con un enfoque práctico y orientado al negocio, me encantaría conversar.
 
-- Home de Cursos
-- Flujo de clases grabadas
-- Flujo de exámenes
-
-[FractalUp Classroom](https://info.fractalup.com/product/content)&nbsp;
-
+- **LinkedIn:** [https://www.linkedin.com/in/thedavos](https://www.linkedin.com/in/thedavos)
+- **Email:** [davidvargas.d45@gmail.com](mailto:davidvargas.d45@gmail.com)
 </br>
 
 ### <h2>⚙️ Github stats:</h2> 
