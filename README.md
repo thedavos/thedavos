@@ -8,7 +8,7 @@ Soy un apasionado del mundo tech, siempre listo para aprender algo nuevo y poner
 web (con JavaScript y Vue.js) y móviles con Flutter. Disfruto mucho resolver esos rompecabezas que se presentan en el código y trabajar codo a codo con otros 
 para sacar adelante proyectos. ¡Siempre estoy con la curiosidad a tope, viendo qué es lo próximo en este mundillo!
 
-- 🌱 Actualmente estoy aprendiendo Flutter y Nest.js.
+- 🌱 Actualmente estoy aprendiendo de forma avanzada Flutter.
 - 👯 Me encantaría colaborar en proyectos de código abierto.
 - 💡 Me gusta explorar nuevas tecnologías y aprender cosas nuevas.
 - 💬 Pregúntame lo que sea, estaré feliz de ayudarte si puedo o simplemente podemos charlar.
