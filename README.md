@@ -4,7 +4,7 @@ Senior Fullstack Developer · Lima, Peru
 
 I've spent seven years building web and mobile products that run in production. Today I work at [Coforge](https://www.coforge.com) as a consultant on [Interbank](https://interbank.pe)'s digital banking; before that I spent four years on the [Global66](https://global66.com) fintech app and led the frontend team at FractalUp.
 
-Outside of work I build my own tools, mostly on Cloudflare, and write about what I'm learning in development, automation and cybersecurity.
+Outside of work I'm building [Davion Software](https://github.com/davion-software), a small studio where I design and ship apps and services. I also build my own tools, mostly on Cloudflare, and write about what I'm learning in development, automation and cybersecurity.
 
 **Projects**
 
