@@ -1,17 +1,17 @@
 ### David Vargas Domínguez
 
-Senior Fullstack Developer · Lima, Perú
+Senior Fullstack Developer · Lima, Peru
 
-Llevo siete años construyendo productos web y móviles que se usan en producción. Hoy trabajo en la banca digital de [Interbank](https://interbank.pe); antes pasé cuatro años en la app fintech de [Global66](https://global66.com) y lideré el equipo frontend de FractalUp.
+I've spent seven years building web and mobile products that run in production. Today I work on digital banking at [Interbank](https://interbank.pe); before that I spent four years on the [Global66](https://global66.com) fintech app and led the frontend team at FractalUp.
 
-Fuera del trabajo construyo mis propias herramientas, casi siempre sobre Cloudflare, y escribo sobre lo que voy aprendiendo en desarrollo, automatización y ciberseguridad.
+Outside of work I build my own tools, mostly on Cloudflare, and write about what I'm learning in development, automation and cybersecurity.
 
-**Proyectos**
+**Projects**
 
-- [RutaSec](https://github.com/thedavos/rutasec) — catálogo de aprendizaje de ciberseguridad con biblioteca personal y progreso.
-- [futrob](https://github.com/thedavos/futrob) — plataforma multi-tenant para ligas de EA SPORTS FC Clubs. _En desarrollo._
+- [RutaSec](https://github.com/thedavos/rutasec) — cybersecurity learning catalog with a personal library and progress tracking.
+- [futrob](https://github.com/thedavos/futrob) — multi-tenant platform for EA SPORTS FC Clubs leagues. _In progress._
 
-**Escritura**
+**Writing** (in Spanish)
 
 <!-- BLOG-POST-LIST:START -->
 - [Cómo no quemar Grok Bot en dos días](https://davosdo.dev/blog/como-no-quemar-grok-bot-en-dos-dias/)
@@ -19,6 +19,6 @@ Fuera del trabajo construyo mis propias herramientas, casi siempre sobre Cloudfl
 - [Cómo terminé construyendo mi propio tracker de gastos con Telegram, n8n e IA](https://davosdo.dev/blog/misgastos-workflow/)
 <!-- BLOG-POST-LIST:END -->
 
-**Contacto**
+**Contact**
 
 [davosdo.dev](https://davosdo.dev) · [hola@davosdo.dev](mailto:hola@davosdo.dev) · [LinkedIn](https://www.linkedin.com/in/thedavos/) · [X](https://x.com/davosdodev) · [Bluesky](https://bsky.app/profile/davoscode.bsky.social)

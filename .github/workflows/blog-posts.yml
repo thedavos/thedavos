@@ -1,4 +1,4 @@
-name: Últimos artículos
+name: Latest posts
 
 on:
   schedule:
@@ -17,4 +17,4 @@ jobs:
         with:
           feed_list: "https://davosdo.dev/rss.xml"
           max_post_count: 3
-          commit_message: "docs: actualizar últimos artículos"
+          commit_message: "docs: update latest posts"
